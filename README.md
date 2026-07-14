@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sajal Neshan
+# 👋 Hi, I'm Neshan Parvej Sajal
 
 **Cloud Engineer | AI Data Specialist | Aspiring Site Reliability Engineer (SRE)**  
 📍 Dublin, Ireland | 📧 neshanparvej@gmail.com | 🔗 https://www.linkedin.com/in/neshan-parvej
