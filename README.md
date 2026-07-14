@@ -1,52 +1,85 @@
-<h2> Hey there! I'm Neshan 👋</h2>
+# 👋 Hi, I'm Sajal Neshan
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+**Cloud Engineer | AI Data Specialist | Aspiring Site Reliability Engineer (SRE)**  
+📍 Dublin, Ireland | 📧 neshanparvej@gmail.com | 🔗 https://www.linkedin.com/in/neshan-parvej
 
-- 🤔 &nbsp; Exploring new technologies, building web apps, and learning software development step by step.  
-- 🎓 &nbsp; Recently completed my MBA in Cloud Computing at Dublin Business School.  
-- 💼 &nbsp; Currently working as Data Service Specialist (Freelance) at RWS Group, (Remote).  
-- 🌱 &nbsp; Learning more about **Web Development (React, Angular, Vue.js)**, **Cloud Platforms (AWS, Azure)**, and **App Development**.  
-- ✍️ &nbsp; Interested in writing, tech blogging, and exploring design as creative outlets.  
+---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 👨🏻‍💻 About Me
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- ☁️ &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+I am a results-oriented Cloud Engineer with an **MBA in Cloud Computing** and an **AWS Certified Solutions Architect – Associate** credential. I bridge the gap between business strategy and technical infrastructure, specializing in designing secure, scalable, and cost-optimized cloud architectures.
 
-<br/>
+- 🔭 I'm currently building **production-grade, highly available 3-tier architectures** on AWS using Terraform, Auto Scaling, and RDS Multi-AZ.
+- 🤖 I work hands-on with **AI training data evaluation** (video, audio, text, and code) for global firms like RWS Group and MLG International, sharpening my ability to spot anomalies, maintain quality standards, and troubleshoot patterns at scale.
+- 🌱 I am actively strengthening my **Site Reliability Engineering (SRE)** skills, focusing on observability (CloudWatch, Prometheus), incident response, Linux administration, and infrastructure automation.
+- ⚡ I am passionate about applying **ITIL-driven Incident, Problem, and Change Management** frameworks to ensure high availability and performance in enterprise cloud environments.
+- ✍️ I enjoy writing technical documentation and sharing insights on cloud architecture and DevOps best practices.
 
-<a href="https://github.com/Neshanpro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neshanpro&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neshanpro&theme=buefy&layout=compact" />
-</a>
+---
 
-<br/>
+## 🛠️ Tech Stack & Cloud Toolbox
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### ☁️ Cloud Platforms
+- **AWS** (EC2, S3, VPC, Lambda, RDS, DynamoDB, Route 53, CloudFront, IAM, CloudWatch, Systems Manager)
+- **Azure** (AZ-900 fundamentals)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/neshan-parvej/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Neshan%20Parvej-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:neshanparvej@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-neshanparvej@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+### 🏗️ Infrastructure as Code (IaC) & Automation
+- **Terraform** | **AWS CloudFormation**
+- **GitHub Actions** | **CI/CD Pipelines**
+- **Jenkins** (Basic)
+
+### 🐳 Containers & Orchestration
+- **Docker** | **Amazon ECS (Fargate)** | **Amazon EKS** | **Kubernetes**
+
+### 💻 Scripting & Languages
+- **Python** | **Bash/Shell** | **PowerShell** | **SQL**
+
+### 🐧 Operating Systems & Networking
+- **Linux Administration** (RHEL/Ubuntu) | **Windows Server**
+- **Networking:** TCP/IP, DNS, VPN, SSL/TLS, Load Balancing (ALB/NLB), Security Groups
+
+### 📊 Monitoring & Observability
+- **AWS CloudWatch** | **CloudTrail** | **AWS Systems Manager (SSM)**
+
+### 🧠 AI & Data Operations
+- AI Training Data Evaluation & Curation
+- Model Bias Identification & Root Cause Analysis (RCA)
+- Data Annotation & Quality Assurance (Video, Audio, Text, Code)
+
+### 🛠️ Dev Tools
+- **Git** | **GitHub** | **VS Code** | **Linux CLI**
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Secure Cloud-Hosted Web Application *(MBA Capstone)*
+- Architected and deployed a secure, fault-tolerant web application on **AWS** using EC2, custom VPC, S3 static hosting, and Route 53.
+- Implemented **IAM least-privilege** policies and **Security Groups** for strict network segmentation with **SSL/TLS** encryption.
+- Applied ITIL-aligned Change Management protocols to ensure zero-downtime deployment.
+
+### 🏗️ 3-Tier High Availability Architecture *(In Progress)*
+- Designing a production-grade infrastructure using **Terraform**, Application Load Balancer (ALB), **Auto Scaling Groups**, and **RDS Multi-AZ** across 2 Availability Zones to ensure **99.95% uptime**.
+- Integrated **AWS CloudWatch** for real-time observability, setting up custom alarms and dashboards to proactively detect performance degradation and trigger automated failover.
+
+---
+
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate** (Issued: July 2026)
+- **HashiCorp Terraform Associate** (Issued: July 2026)
+- **DataCamp:** Data Analyst Associate, SQL Associate, Python Data Associate
+
+---
+
+## 📫 Let's Connect
+
+I am actively looking for **Cloud Engineering, DevOps, or Site Reliability Engineering (SRE)** roles in Ireland. Feel free to reach out!
+
+- 💼 https://www.linkedin.com/in/neshan-parvej
+- 📧 neshanparvej@gmail.com
+- 🌐 https://neshan.vercel.app/
+
+---
+
+> *"Automating the boring stuff so teams can focus on meaningful work."*
